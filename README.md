@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Reyanna 👋
 
-<!--
-**rey-284/rey-284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Information Science student concentrating in Information Security.
 
-Here are some ideas to get you started:
+🔐 I'm interested in cybersecurity, ethical hacking, and information technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm currently building my skills in Java, SQL, networking, cybersecurity, and Git/GitHub.
+
+🛠️ I enjoy hands-on learning and I'm currently working on projects to strengthen my technical skills.
+
+## 🧰 Skills & Technologies
+
+- Java Novice
+- SQL Novice
+- Git & GitHub
+- Networking Fundamentals
+- Active Directory
+- Microsoft 365
+- Cybersecurity Fundamentals
+
+## 🚀 Currently Learning
+
+- Ethical Hacking
+- SQL & Databases
+- Network Security
+- Git & GitHub
+
+## 📂 Projects
+
+Projects coming soon! I'm currently building and documenting hands-on cybersecurity and programming projects.
