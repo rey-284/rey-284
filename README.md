@@ -1,8 +1,8 @@
 # Hi, I'm Reyanna 👋
 
-🎓 I'm an Information Science student concentrating in Information Security.
+🎓 I'm a Cybersecurity Student.
 
-🔐 I'm interested in cybersecurity, ethical hacking, and information technology.
+🔐 I'm interested in cybersecurity, ethical hacking, cyber-threat intelligence and information technology.
 
 💻 I'm currently building my skills in Java, SQL, networking, cybersecurity, and Git/GitHub.
 
